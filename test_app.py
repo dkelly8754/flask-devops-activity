@@ -1,5 +1,4 @@
 # test_app.py
-from flask
 import app
 
 
