@@ -1,5 +1,5 @@
 # test_app.py
-from flask import json
+from flask
 import app
 
 
