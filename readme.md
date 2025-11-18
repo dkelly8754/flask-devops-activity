@@ -1,0 +1,1 @@
+i followed the instructions in the activity document and implemented everything as required. i did not encounter any issues other than pytest-cov not being in requirements.txt
